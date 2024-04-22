@@ -96,6 +96,16 @@ plt.title("Customer Segments")
 
 
 
+
+
+
+
+
+
+
+
+
+
 ```
 
 ## Output:
