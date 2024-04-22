@@ -79,6 +79,25 @@ plt.title("Customer Segments")
 
 ```
 
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```
+
 ## Output:
 ![image](https://github.com/velupradeep/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/150329341/439e81f1-6c01-4d7f-8e5b-d035f767fef8)
 ![image](https://github.com/velupradeep/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/150329341/5757ea60-3f3a-4d77-b104-8e812469080e)
