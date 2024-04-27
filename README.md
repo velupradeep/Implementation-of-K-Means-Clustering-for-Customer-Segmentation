@@ -29,7 +29,6 @@ RegisterNumber: 2122223240119
 ```
 
 ```
-
 import pandas as pd
 import matplotlib.pyplot as plt
 data=pd.read_csv("C:/Users/admin/Downloads/Mall_Customers.csv")
@@ -71,41 +70,6 @@ plt.scatter(df3["Annual Income (k$)"], df3["Spending Score (1-100)"],c="green", 
 plt.scatter(df4["Annual Income (k$)"], df4["Spending Score (1-100)"],c="magenta", label="cluster4") 
 plt.legend()
 plt.title("Customer Segments")
-
-
-
-
-
-
-```
-
-
-
-```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ```
 
 ## Output:
@@ -116,14 +80,6 @@ plt.title("Customer Segments")
 ![image](https://github.com/velupradeep/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/150329341/7035be24-fdaf-4250-b8a4-e5332edc2820)
 ![image](https://github.com/velupradeep/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/150329341/be041ebb-4ca3-4bba-b9b9-807683e19d4c)
 ![image](https://github.com/velupradeep/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/150329341/445088f0-b905-423d-9cef-2109b87234e6)
-
-
-
-
-
-
-
-
 
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
